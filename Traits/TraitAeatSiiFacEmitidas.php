@@ -1,3 +1,6 @@
 
 trait TraitAeatSiiFacEmitidas {
 }
+
+class PruebaAeatSiiFacEmitidas {
+}
