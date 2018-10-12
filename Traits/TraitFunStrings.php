@@ -1,3 +1,4 @@
+<?php
 
 trait TraitFunStrings {
 }
